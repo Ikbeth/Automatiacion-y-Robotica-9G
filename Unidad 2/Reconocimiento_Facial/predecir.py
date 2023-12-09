@@ -25,7 +25,6 @@ def predict(file):
 
     match respuesta:
         case 0:
-
             return '1-Hafid'
         case 1:
             return '2-Liz'
